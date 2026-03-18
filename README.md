@@ -203,8 +203,7 @@ Day 09  ──  ✅  VQC · Variational Quantum Classifier · end-to-end trainin
 Day 10  ──  ⬡   Project 1 intensive · QML Classifier on MNIST subset
 ·
 ·
-Day 20  ──  ·   Final push · 50+ applications · LinkedIn article
-```
+Day 20  ──  ·   Final push ```
 
 ---
 
