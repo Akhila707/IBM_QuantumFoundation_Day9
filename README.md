@@ -220,12 +220,3 @@ Project 1 deliverable: a complete, portfolio-ready QML classifier repository.
 - Credentials stored in `.env`, excluded from version control via `.gitignore`
 - All results reproducible locally — no IBM token required
 
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Akhila707-181717?style=flat-square&logo=github)](https://github.com/Akhila707)
-&nbsp;·&nbsp;
-[![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://quantum.ibm.com)
-
-</div>
