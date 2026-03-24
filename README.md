@@ -203,9 +203,8 @@ Day 09  ──  ✅  VQC · Variational Quantum Classifier · end-to-end trainin
 Day 10  ──  ⬡   Project 1 intensive · QML Classifier on MNIST subset
 ·
 ·
-Day 20  ──  ·   Final push ```
-
----
+Day 20  ──  ·   Final push
+```
 ```
 ## What's Next — Day 10
 
@@ -213,7 +212,7 @@ Day 10 is Project 1 intensive. The same VQC pipeline moves to a harder dataset �
 
 Project 1 deliverable: a complete, portfolio-ready QML classifier repository.
 ```
----
+
 ```
 ## Security
 
