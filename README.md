@@ -206,17 +206,17 @@ Day 10  ──  ⬡   Project 1 intensive · QML Classifier on MNIST subset
 Day 20  ──  ·   Final push ```
 
 ---
-
+```
 ## What's Next — Day 10
 
 Day 10 is Project 1 intensive. The same VQC pipeline moves to a harder dataset — MNIST handwritten digits (binary subset). The notebook adds confusion matrices, accuracy plots, and a professional GitHub structure.
 
 Project 1 deliverable: a complete, portfolio-ready QML classifier repository.
-
+```
 ---
-
+```
 ## Security
 
 - Credentials stored in `.env`, excluded from version control via `.gitignore`
 - All results reproducible locally — no IBM token required
-
+```
